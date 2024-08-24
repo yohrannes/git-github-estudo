@@ -1,0 +1,4 @@
+
+# Deletar commit do github
+git reset --hard "HEAD^"
+git push origin -f
